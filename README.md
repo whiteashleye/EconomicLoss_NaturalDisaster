@@ -71,3 +71,7 @@ When examining Houston, TX between 2016-2018 for unemployment claims on a weekly
 2. Migration rates for affected areas to provide a comprehensive economic loss or gain due to employee migration 
 3. Incorporate Current Population Survey to track evacuees and displaced workers to get granular level data
 4. Scale for counties nationally for a more predictive models that include other natural disasters around the US
+
+### Dashboard
+
+Tableau Dashboard:  https://public.tableau.com/profile/drew.hoppes#!/vizhome/H arveyViz/StoryofHurricaineHarvey
