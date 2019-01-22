@@ -74,4 +74,4 @@ When examining Houston, TX between 2016-2018 for unemployment claims on a weekly
 
 ### Dashboard
 
-Tableau Dashboard:  https://public.tableau.com/profile/drew.hoppes#!/vizhome/H arveyViz/StoryofHurricaineHarvey
+Tableau Dashboard:  https://public.tableau.com/profile/drew.hoppes#!/vizhome/HarveyViz/StoryofHurricaineHarvey
